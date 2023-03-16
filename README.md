@@ -1,2 +1,2 @@
 # Algorithms
-This Repo contains code for different kinds of data structures.
+Conains some simple algorithms and data structures
