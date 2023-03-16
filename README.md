@@ -1,2 +1,2 @@
 # Algorithms
-Conains some simple algorithms and data structures
+Contains some simple algorithms and data structures
