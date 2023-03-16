@@ -35,4 +35,5 @@ public class FindMinMax {
         System.out.println(check.findMinimum(arr));
         System.out.println(check.findMaximum(arr));
     }
+    
 }

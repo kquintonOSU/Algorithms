@@ -11,4 +11,5 @@ public class PrintArray {
         int[] num = {5, 1, 2, 9, 10};
         printArray.printArray(num);
     }
+    
 }
