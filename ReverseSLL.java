@@ -1,7 +1,5 @@
 public class ReverseSLL {
 
-    private static ListNode head;
-
     private static class ListNode {
         private int data;
         private ListNode next;
