@@ -6,6 +6,7 @@ public class PrintArray {
         }
         System.out.println();
     }
+
     public static void main(String[] args){
         PrintArray printArray = new PrintArray();
         int[] num = {5, 1, 2, 9, 10};
